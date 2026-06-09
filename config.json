@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "unit-testing-modular-design",
+      "title": "Unit Testing and Modular Design",
+      "description": "Build modular Python code and verify it with unit tests.",
+      "path": "assignments/unit-testing-modular-design",
+      "dueDate": "2026-07-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
